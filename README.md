@@ -1,4 +1,4 @@
-# Readme: Script de Download de Arquivos PDF de um Site
+# Web Scraping Python
 
 Este é um script Python simples que baixa arquivos PDF de um site e os compacta em um arquivo ZIP. Ele usa as bibliotecas `requests` para fazer requisições HTTP, `BeautifulSoup` para fazer parsing do HTML e extrair os links relevantes, e `zipfile` para criar o arquivo ZIP.
 
